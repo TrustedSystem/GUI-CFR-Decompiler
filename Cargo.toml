@@ -1,0 +1,8 @@
+[package]
+name = "DecompileTool"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.27.2"
+rfd = "0.14.0"
